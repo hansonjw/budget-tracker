@@ -4,8 +4,8 @@
     "description": "An app that helps you track your expenditures and income",
     "background_color": "#ff0000",
     "theme_color": "#ffff00",
-    "start_url":"",
-    "display":"",
+    "start_url":"index.html",
+    "display":"standalone",
     "icons": [
         {
             "src": "/icons/icon-72x72.png",
