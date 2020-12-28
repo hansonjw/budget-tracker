@@ -2,7 +2,7 @@
 No license is applicable for this application
 ## Description
 This application allows users to eenter and track expenditures.  It is a web first design and employs Progressive Web Applciation concepts such as continued functionality when internet connection is intermitten.  This application is deployed at heroku at the following url:
-https://budget-tracker-88547.herokuapp.com/
+https://ucbjh-budget-tracker.herokuapp.com/
 ## Table of Contents
 [Installation Instructions](#installation)  
 [How to use This Application](#how-to)  
@@ -12,7 +12,7 @@ https://budget-tracker-88547.herokuapp.com/
 [Assignment Questions](#assignment)  
 ## Installation
 Access the app through the URL provided:
-https://budget-tracker-88547.herokuapp.com/
+https://ucbjh-budget-tracker.herokuapp.com/
 ## How-To
 Enter transactions including a 'description' 'transaction amount', and whether is added or subtracted from your funds.  The chart below will update indicating how much in funds are available.
 ## Contribute
